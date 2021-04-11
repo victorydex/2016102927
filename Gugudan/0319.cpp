@@ -7,7 +7,7 @@ int main()
 	int j = 0; // 변수초기화
 	int v = 0; // 변수초기화
 
-	for (i = 2; i < 10; i++)
+	for (i = 2; i < 9; i++)
 	{
 		cout << i << "단" << '\t';
 
